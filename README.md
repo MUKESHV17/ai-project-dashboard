@@ -1,4 +1,10 @@
-# AI-Powered Project Management Dashboard 🚀
+# MukeshPM — AI-Powered Project Management Dashboard 🚀
+
+### 🔗 Production Live Deployments:
+- 💻 **Live Web Application**: [https://ai-project-dashboard-two.vercel.app/](https://ai-project-dashboard-two.vercel.app/)
+- 📡 **Live Backend API**: [https://ai-project-dashboard-jcf4.onrender.com](https://ai-project-dashboard-jcf4.onrender.com)
+
+---
 
 A production-level, enterprise-grade full-stack project management application crafted for the **WEEK 4 – Capstone Project & Deployment** internship assignment. Inspired by premium features of **Trello, Jira, and Asana**, the application integrates an interactive Kanban board (drag-and-drop), deep statistical charts, Multer-based file uploading, collaborative comments timelines, role-based authorization, and **Google Gemini API intelligence**.
 
