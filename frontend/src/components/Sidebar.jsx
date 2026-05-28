@@ -44,7 +44,7 @@ const Sidebar = ({ isOpen, toggleSidebar }) => {
               <Sparkles className="w-5 h-5 text-white" />
             </div>
             <span className="text-lg font-bold tracking-tight text-slate-900 dark:text-white">
-              Antigravity<span className="text-brand-500">PM</span>
+              Mukesh<span className="text-brand-500">PM</span>
             </span>
           </div>
           <button 

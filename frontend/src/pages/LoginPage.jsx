@@ -113,7 +113,7 @@ const LoginPage = () => {
 
         {/* Footer */}
         <p className="mt-8 text-center text-xs text-slate-500 dark:text-slate-400">
-          New to AntigravityPM?{' '}
+          New to MukeshPM?{' '}
           <Link to="/register" className="font-semibold text-brand-500 hover:underline">
             Register Workspace
           </Link>

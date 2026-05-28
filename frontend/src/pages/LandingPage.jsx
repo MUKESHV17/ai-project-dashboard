@@ -67,7 +67,7 @@ const LandingPage = () => {
             <Sparkles className="w-5 h-5 text-white" />
           </div>
           <span className="text-xl font-bold tracking-tight text-slate-900 dark:text-white">
-            Antigravity<span className="text-brand-500">PM</span>
+            Mukesh<span className="text-brand-500">PM</span>
           </span>
         </div>
         <div className="flex items-center gap-4">
@@ -134,7 +134,7 @@ const LandingPage = () => {
               <div className="w-3 h-3 rounded-full bg-amber-500" />
               <div className="w-3 h-3 rounded-full bg-emerald-500" />
               <div className="w-40 h-5 bg-slate-700/60 rounded ml-4 text-[10px] text-slate-400 flex items-center justify-center font-medium">
-                workspace.antigravity.pm
+                workspace.mukesh.pm
               </div>
             </div>
             {/* Mock Dashboard Inner */}
@@ -218,7 +218,7 @@ const LandingPage = () => {
 
       {/* Footer Info */}
       <footer className="py-12 border-t border-slate-200/50 dark:border-slate-800/40 text-center text-xs text-slate-500 dark:text-slate-500">
-        <p>© 2026 Antigravity Project Management Dashboard. Week 4 Capstone Internship project.</p>
+        <p>© 2026 MukeshPM Project Management Dashboard. Week 4 Capstone Internship project.</p>
       </footer>
     </div>
   );
